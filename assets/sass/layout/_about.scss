@@ -1,0 +1,36 @@
+.about {
+	color: $taupegray;
+}
+
+.containerabout {
+	margin: 50px;
+}
+
+.about-container__title {
+	background-color: $jellybean;
+	color: $white;
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	height: 100px;
+  	margin-top: 50px;
+}
+
+.about__title {
+	font-size: $large;
+}
+
+.about__img {
+	width:45%;
+}
+
+.about__article {
+	text-align: center;
+	margin: 20px;
+}
+
+.about__article p {
+	text-align: left;
+	padding: 10px 90px 10px 90px;
+	margin: 0 auto;
+}

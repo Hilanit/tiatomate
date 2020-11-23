@@ -1,0 +1,29 @@
+.contact {
+	background-color: $jellybean;
+	height: 200px;
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	color: $white;
+  }
+
+  .contact__button {
+  	border: none;
+  	font-weight: $bold;
+  	color: $granitegray;
+  	padding: 10px 20px 10px 20px;
+  	border-radius: 35px;
+  	margin-top: 20px;
+  	margin-left: 90px;
+  }
+
+
+   .contact__button:hover {
+    border: none;
+    font-weight: $bold;
+    color: $pastelpink;
+    padding: 10px 20px 10px 20px;
+    border-radius: 35px;
+    margin-top: 20px;
+    margin-left: 90px;
+  }

@@ -1,0 +1,20 @@
+header {
+	background-color: $jellybean;
+	height: 500px;
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  }
+
+.header__title {
+	color: $white;
+	font-size: $x-large;
+	text-align: center;
+}
+
+.header__title span {
+	color: $white;
+	font-size: $x-large;
+	font-weight: $bold;
+}
+

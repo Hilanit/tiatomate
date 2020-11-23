@@ -1,0 +1,33 @@
+.main-content {
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	flex-wrap: wrap;
+  	margin: 0;
+}
+
+.main-content__article {
+	color: $taupegray;
+}
+
+.main-content__article-1 {
+	background-color: $taupegray;
+	color: $white;
+}
+
+.main-content__article-1 img{
+	width:100%;
+}
+
+.main-content__article img{
+	width:100%;
+	}
+
+
+.container {
+	padding: 50px;
+}
+
+.main-content h2{
+	margin: 10px 0 10px 0;
+}
